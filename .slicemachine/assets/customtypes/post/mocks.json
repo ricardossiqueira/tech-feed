@@ -1,0 +1,36 @@
+{
+  "id": "2d00ade2-9b1d-424b-9d7f-b0ff94778c49",
+  "uid": "culpa-maxime-neque",
+  "type": "post",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Whiteboard intuitive architectures",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "heading1",
+        "text": "Visualize world-class interfaces",
+        "spans": []
+      },
+      {
+        "type": "image",
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=900&h=500&fit=crop"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ut pariatur excepteur voluptate ad pariatur et.",
+        "spans": []
+      }
+    ]
+  }
+}

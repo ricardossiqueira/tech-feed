@@ -1,0 +1,5 @@
+{
+  "_latest": "0.3.7",
+  "apiEndpoint": "https://tech-feed.prismic.io/api/v2",
+  "libraries": ["@/slices"]
+}

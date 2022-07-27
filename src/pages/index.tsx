@@ -30,7 +30,7 @@ export default function Home({ product }: HomeProps) {
             Garanta acesso à todas as publicações por apenas{" "}
             <span>{product.amount}</span> ao mês.
           </p>
-          <SubscribeButton priceId={product.priceId} />
+          <SubscribeButton />
         </section>
         <Image
           src="/images/undraw_online_reading.svg"
